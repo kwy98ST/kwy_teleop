@@ -1,0 +1,37 @@
+[1.087s] Invoking command in '/home/kwy/kwy_teleop/src/jdamr200_teleop': PYTHONPATH=/home/kwy/kwy_teleop/build/jdamr200_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kwy/kwy_teleop/install/jdamr200_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/jdamr200_teleop build --build-base /home/kwy/kwy_teleop/build/jdamr200_teleop/build install --record /home/kwy/kwy_teleop/build/jdamr200_teleop/install.log --single-version-externally-managed install_data
+[1.355s] running egg_info
+[1.356s] creating ../../build/jdamr200_teleop/jdamr200_teleop.egg-info
+[1.356s] writing ../../build/jdamr200_teleop/jdamr200_teleop.egg-info/PKG-INFO
+[1.357s] writing dependency_links to ../../build/jdamr200_teleop/jdamr200_teleop.egg-info/dependency_links.txt
+[1.357s] writing entry points to ../../build/jdamr200_teleop/jdamr200_teleop.egg-info/entry_points.txt
+[1.357s] writing requirements to ../../build/jdamr200_teleop/jdamr200_teleop.egg-info/requires.txt
+[1.357s] writing top-level names to ../../build/jdamr200_teleop/jdamr200_teleop.egg-info/top_level.txt
+[1.358s] writing manifest file '../../build/jdamr200_teleop/jdamr200_teleop.egg-info/SOURCES.txt'
+[1.360s] reading manifest file '../../build/jdamr200_teleop/jdamr200_teleop.egg-info/SOURCES.txt'
+[1.360s] writing manifest file '../../build/jdamr200_teleop/jdamr200_teleop.egg-info/SOURCES.txt'
+[1.361s] running build
+[1.361s] running build_py
+[1.361s] creating /home/kwy/kwy_teleop/build/jdamr200_teleop/build
+[1.361s] creating /home/kwy/kwy_teleop/build/jdamr200_teleop/build/lib
+[1.361s] creating /home/kwy/kwy_teleop/build/jdamr200_teleop/build/lib/jdamr200_teleop
+[1.362s] copying jdamr200_teleop/jdamr_teleop.py -> /home/kwy/kwy_teleop/build/jdamr200_teleop/build/lib/jdamr200_teleop
+[1.362s] copying jdamr200_teleop/__init__.py -> /home/kwy/kwy_teleop/build/jdamr200_teleop/build/lib/jdamr200_teleop
+[1.362s] running install
+[1.362s] running install_lib
+[1.363s] creating /home/kwy/kwy_teleop/install/jdamr200_teleop/lib/python3.10/site-packages/jdamr200_teleop
+[1.364s] copying /home/kwy/kwy_teleop/build/jdamr200_teleop/build/lib/jdamr200_teleop/jdamr_teleop.py -> /home/kwy/kwy_teleop/install/jdamr200_teleop/lib/python3.10/site-packages/jdamr200_teleop
+[1.364s] copying /home/kwy/kwy_teleop/build/jdamr200_teleop/build/lib/jdamr200_teleop/__init__.py -> /home/kwy/kwy_teleop/install/jdamr200_teleop/lib/python3.10/site-packages/jdamr200_teleop
+[1.364s] byte-compiling /home/kwy/kwy_teleop/install/jdamr200_teleop/lib/python3.10/site-packages/jdamr200_teleop/jdamr_teleop.py to jdamr_teleop.cpython-310.pyc
+[1.365s] byte-compiling /home/kwy/kwy_teleop/install/jdamr200_teleop/lib/python3.10/site-packages/jdamr200_teleop/__init__.py to __init__.cpython-310.pyc
+[1.366s] running install_data
+[1.366s] creating /home/kwy/kwy_teleop/install/jdamr200_teleop/share/ament_index
+[1.366s] creating /home/kwy/kwy_teleop/install/jdamr200_teleop/share/ament_index/resource_index
+[1.366s] creating /home/kwy/kwy_teleop/install/jdamr200_teleop/share/ament_index/resource_index/packages
+[1.366s] copying resource/jdamr200_teleop -> /home/kwy/kwy_teleop/install/jdamr200_teleop/share/ament_index/resource_index/packages
+[1.367s] copying package.xml -> /home/kwy/kwy_teleop/install/jdamr200_teleop/share/jdamr200_teleop
+[1.367s] running install_egg_info
+[1.369s] Copying ../../build/jdamr200_teleop/jdamr200_teleop.egg-info to /home/kwy/kwy_teleop/install/jdamr200_teleop/lib/python3.10/site-packages/jdamr200_teleop-0.0.0-py3.10.egg-info
+[1.370s] running install_scripts
+[1.393s] Installing jdamr_teleop script to /home/kwy/kwy_teleop/install/jdamr200_teleop/lib/jdamr200_teleop
+[1.394s] writing list of installed files to '/home/kwy/kwy_teleop/build/jdamr200_teleop/install.log'
+[1.436s] Invoked command in '/home/kwy/kwy_teleop/src/jdamr200_teleop' returned '0': PYTHONPATH=/home/kwy/kwy_teleop/build/jdamr200_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kwy/kwy_teleop/install/jdamr200_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/jdamr200_teleop build --build-base /home/kwy/kwy_teleop/build/jdamr200_teleop/build install --record /home/kwy/kwy_teleop/build/jdamr200_teleop/install.log --single-version-externally-managed install_data

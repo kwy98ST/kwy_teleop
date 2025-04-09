@@ -1,0 +1,37 @@
+[1.080s] Invoking command in '/home/kwy/kwy_teleop/src/jdamr200_node': PYTHONPATH=/home/kwy/kwy_teleop/build/jdamr200_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kwy/kwy_teleop/install/jdamr200_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/jdamr200_node build --build-base /home/kwy/kwy_teleop/build/jdamr200_node/build install --record /home/kwy/kwy_teleop/build/jdamr200_node/install.log --single-version-externally-managed install_data
+[1.366s] running egg_info
+[1.367s] creating ../../build/jdamr200_node/jdamr200_node.egg-info
+[1.367s] writing ../../build/jdamr200_node/jdamr200_node.egg-info/PKG-INFO
+[1.368s] writing dependency_links to ../../build/jdamr200_node/jdamr200_node.egg-info/dependency_links.txt
+[1.368s] writing entry points to ../../build/jdamr200_node/jdamr200_node.egg-info/entry_points.txt
+[1.368s] writing requirements to ../../build/jdamr200_node/jdamr200_node.egg-info/requires.txt
+[1.369s] writing top-level names to ../../build/jdamr200_node/jdamr200_node.egg-info/top_level.txt
+[1.369s] writing manifest file '../../build/jdamr200_node/jdamr200_node.egg-info/SOURCES.txt'
+[1.372s] reading manifest file '../../build/jdamr200_node/jdamr200_node.egg-info/SOURCES.txt'
+[1.373s] writing manifest file '../../build/jdamr200_node/jdamr200_node.egg-info/SOURCES.txt'
+[1.373s] running build
+[1.373s] running build_py
+[1.373s] creating /home/kwy/kwy_teleop/build/jdamr200_node/build
+[1.374s] creating /home/kwy/kwy_teleop/build/jdamr200_node/build/lib
+[1.374s] creating /home/kwy/kwy_teleop/build/jdamr200_node/build/lib/jdamr200_node
+[1.374s] copying jdamr200_node/jdamr200_node.py -> /home/kwy/kwy_teleop/build/jdamr200_node/build/lib/jdamr200_node
+[1.375s] copying jdamr200_node/__init__.py -> /home/kwy/kwy_teleop/build/jdamr200_node/build/lib/jdamr200_node
+[1.375s] running install
+[1.375s] running install_lib
+[1.376s] creating /home/kwy/kwy_teleop/install/jdamr200_node/lib/python3.10/site-packages/jdamr200_node
+[1.376s] copying /home/kwy/kwy_teleop/build/jdamr200_node/build/lib/jdamr200_node/jdamr200_node.py -> /home/kwy/kwy_teleop/install/jdamr200_node/lib/python3.10/site-packages/jdamr200_node
+[1.377s] copying /home/kwy/kwy_teleop/build/jdamr200_node/build/lib/jdamr200_node/__init__.py -> /home/kwy/kwy_teleop/install/jdamr200_node/lib/python3.10/site-packages/jdamr200_node
+[1.377s] byte-compiling /home/kwy/kwy_teleop/install/jdamr200_node/lib/python3.10/site-packages/jdamr200_node/jdamr200_node.py to jdamr200_node.cpython-310.pyc
+[1.378s] byte-compiling /home/kwy/kwy_teleop/install/jdamr200_node/lib/python3.10/site-packages/jdamr200_node/__init__.py to __init__.cpython-310.pyc
+[1.378s] running install_data
+[1.378s] creating /home/kwy/kwy_teleop/install/jdamr200_node/share/ament_index
+[1.378s] creating /home/kwy/kwy_teleop/install/jdamr200_node/share/ament_index/resource_index
+[1.378s] creating /home/kwy/kwy_teleop/install/jdamr200_node/share/ament_index/resource_index/packages
+[1.379s] copying resource/jdamr200_node -> /home/kwy/kwy_teleop/install/jdamr200_node/share/ament_index/resource_index/packages
+[1.379s] copying package.xml -> /home/kwy/kwy_teleop/install/jdamr200_node/share/jdamr200_node
+[1.379s] running install_egg_info
+[1.381s] Copying ../../build/jdamr200_node/jdamr200_node.egg-info to /home/kwy/kwy_teleop/install/jdamr200_node/lib/python3.10/site-packages/jdamr200_node-0.0.0-py3.10.egg-info
+[1.382s] running install_scripts
+[1.406s] Installing jdamr200_node script to /home/kwy/kwy_teleop/install/jdamr200_node/lib/jdamr200_node
+[1.406s] writing list of installed files to '/home/kwy/kwy_teleop/build/jdamr200_node/install.log'
+[1.459s] Invoked command in '/home/kwy/kwy_teleop/src/jdamr200_node' returned '0': PYTHONPATH=/home/kwy/kwy_teleop/build/jdamr200_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kwy/kwy_teleop/install/jdamr200_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/jdamr200_node build --build-base /home/kwy/kwy_teleop/build/jdamr200_node/build install --record /home/kwy/kwy_teleop/build/jdamr200_node/install.log --single-version-externally-managed install_data
